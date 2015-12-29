@@ -1,7 +1,0 @@
-{
-    "repos": "https://github.com/yiminghe/gregorian-calendar-format.git",
-    "version": "4.0.4",
-    "tag": "master",
-    "name": "gregorian-calendar-format",
-    "main": "lib/gregorian-calendar-format.js"
-}
